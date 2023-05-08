@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"net/http"
 	"strings"
-	"wrap-midjourney/initialization"
+	"github.com/Rehtt/wrap-midjourney/initialization"
 
 	discord "github.com/bwmarrin/discordgo"
 )

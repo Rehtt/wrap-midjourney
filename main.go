@@ -1,8 +1,8 @@
 package main
 
 import (
-	"wrap-midjourney/handlers"
-	"wrap-midjourney/initialization"
+	"github.com/Rehtt/wrap-midjourney/handlers"
+	"github.com/Rehtt/wrap-midjourney/initialization"
 
 	"github.com/gin-gonic/gin"
 	"github.com/spf13/pflag"

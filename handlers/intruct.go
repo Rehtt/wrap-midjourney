@@ -1,7 +1,7 @@
 package handlers
 
 import (
-	"wrap-midjourney/services"
+	"github.com/Rehtt/wrap-midjourney/services"
 )
 
 func GenerateImage(prompt string) error {

@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 	"net/http"
 	"path/filepath"
-	config "wrap-midjourney/initialization"
+	config "github.com/Rehtt/wrap-midjourney/initialization"
 )
 
 const (

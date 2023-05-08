@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"fmt"
 	"net/http"
-	"wrap-midjourney/services"
+	"github.com/Rehtt/wrap-midjourney/services"
 
 	"github.com/gin-gonic/gin"
 )

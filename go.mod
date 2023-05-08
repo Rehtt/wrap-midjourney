@@ -1,4 +1,4 @@
-module wrap-midjourney
+module github.com/Rehtt/wrap-midjourney
 
 go 1.18
 
